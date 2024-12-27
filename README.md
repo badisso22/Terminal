@@ -41,7 +41,7 @@ To use the terminal, simply open the HTML file in your browser and interact with
 
 ## Additional Notes
 
-- The terminal is case-insensitive; commands can be typed in lowercase or uppercase.
+- The terminal is case-insensitive; commands can be typed in lowercase as it is shown.
 - This project was built to enhance JavaScript skills and is open for further extensions.
 
 Enjoy experimenting with the terminal and expanding your JavaScript knowledge ;) !!!
