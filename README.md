@@ -1,6 +1,6 @@
 # Terminal
 
-This project is a basic JavaScript "Terminal," designed as a fun way to explore and learn more about JavaScript. It provides multiple simple commands, emulating terminal-like functionality within a browser.
+This project is a basic JavaScript "Terminal," designed as a fun way to explore and learn more about JavaScript. It provides multiple simple commands, emulating terminal like functionality within a browser.
 
 ## Features
 
